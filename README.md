@@ -16,7 +16,7 @@ Getting started is easy! Follow these steps:
 
 1. **Clone this repository:**  
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/writestart-frontend.git
+   git clone https://github.com/magi8101/writestart-frontend.git
    ```
 2. **Navigate to the project directory:**  
    ```bash
