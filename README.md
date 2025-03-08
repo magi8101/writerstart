@@ -5,7 +5,7 @@
 <a href="https://ibb.co/k69CjbMs"><img src="https://i.ibb.co/qFWQKqx3/write-start-netlify-app-Samsung-Galaxy-A51-71.png" alt="write-start-netlify-app-Samsung-Galaxy-A51-71" border="0"></a><br /><a target='_blank' href='https://usefulwebtool.com/'>https://write-start.netlify.app/</a><br />
 
 ---
-
+<a href="https://write-start.netlify.app/" <style>textcolor:grey;</style>link to website</a>
 ## 🔗 Backend Repository
 For full functionality, connect with our backend: [WriteStart Backend](#) *(Replace with actual backend link)*
 
