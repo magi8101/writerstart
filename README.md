@@ -9,7 +9,7 @@
 Check out the live version here: [🚀 WriteStart Website](https://write-start.netlify.app/)
 ---
 ## 🔗 Backend Repository
-For full functionality, connect with our backend: [WriteStart Backend](#) *(Replace with actual backend link)*
+For full functionality, connect with our backend: [WriteStart Backend](https://github.com/magi8101/writers-backend.git)
 
 ---
 
